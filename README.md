@@ -7,5 +7,5 @@ Very simple PyTorch implementation for Asynchronous Advantage Actor Critic (A3C)
 3. numpy
 
 ## how to run the code
-'''python model.py '''
+python model.py 
 
